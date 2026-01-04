@@ -1,5 +1,5 @@
 ## Hi there, I'm Siddarth Gottumukkula 👋
-I'm currently an Electronics Undergrad student at IIIT, Hyderabad and a researcher at the Computer Systems Group. 
+I'm currently an Electronics Undergraduate student at IIIT-H and a researcher at the Computer Systems Group. 
 
 ### Research Interests
 - Computer Architecture
