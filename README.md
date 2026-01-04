@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **IamSid44/IamSid44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I'm Siddarth Gottumukkula 👋
+
+## About Me
+- I'm currently a 3rd year Undergrad student IIIT, Hyderabad pursuing Electronics and Communication Engineering. 
+
+
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddarth-gottumukkula-741b23285/)
