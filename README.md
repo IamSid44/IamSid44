@@ -1,26 +1,13 @@
-<!--
-**IamSid44/IamSid44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Siddarth Gottumukkula 👋
+I'm currently an Electronics Undergrad student at IIIT, Hyderabad and a researcher at the Computer Systems Group. 
 
-Here are some ideas to get you started:
+### Research Interests
+- Computer Architecture
+- Hardware Accelerators
+- In-Memory Computing
+- Hardware/Software Co-Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi there, I'm Siddarth Gottumukkula 👋
-
-## About Me
-- I'm currently a 3rd year Undergrad student IIIT, Hyderabad pursuing Electronics and Communication Engineering. 
-
-
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddarth-gottumukkula-741b23285/)
+[![Email](https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](mailto:siddarth.g@students.iiit.ac.in)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square&label=Profile+Views)
