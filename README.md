@@ -4,7 +4,6 @@ I'm currently an Electronics Undergraduate student at IIIT-H and a researcher at
 ### Research Interests
 - Computer Architecture
 - Hardware Accelerators
-- In-Memory Computing
 - Hardware/Software Co-Design
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddarth-gottumukkula-741b23285/)
