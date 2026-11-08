@@ -1,14 +1,30 @@
-## Hi there, I'm Siddarth Gottumukkula 👋
-I'm currently an Electronics Undergraduate student at IIIT-H and a researcher at the Computer Systems Group. 
+<h1 align="center">Hey, I'm Siddarth 👋</h1>
+<p align="center"><i>Computer architecture, AI systems and compilers. Also: 🏎️</i></p>
 
-### Research Interests
-- Computer Architecture
-- Hardware Accelerators
-- Hardware/Software Co-Design
+```verilog
+module siddarth (
+  input  curiosity,
+  input  a_good_problem,
+  input  lights_out,
+  output a_late_night
+);
+  assign a_late_night = curiosity & (a_good_problem | lights_out);
+endmodule
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddarth-gottumukkula-741b23285/)
-[![Email](https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](mailto:siddarth.g@students.iiit.ac.in)
+### What I'm into
+- 🧱 Hardware for AI: accelerators, memory systems and how LLM inference maps onto silicon
+- 🧠 ML systems: training and serving models, and the infrastructure around them
+- ⚙️ Compilers and processors: the layers between code and gates
 
-<!--
-![Profile Views](https://komarev.com/ghpvc/?username=iamsid44&color=blue&style=flat-square&label=Profile+Views)
--->
+### Right now
+- Senior in Electronics and Communication Engineering at IIIT Hyderabad
+- Undergraduate researcher at CVEST, IIIT Hyderabad
+- Ex-summer intern at Texas Instruments
+
+### Off the clock
+Formula 1 on a Sunday, tech news, and keeping up with current affairs.
+
+### Say hi
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddarth-gottumukkula/)
+[![Email](https://img.shields.io/badge/Email-say_hi-555555?style=for-the-badge)](mailto:siddarth.g@students.iiit.ac.in)
