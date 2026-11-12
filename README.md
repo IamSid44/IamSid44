@@ -26,6 +26,6 @@ endmodule
 Formula 1 on a Sunday, tech news, and keeping up with current affairs.
 
 ### Say hi
-[![Website](https://img.shields.io/badge/Website-iamsid44.github.io-555555?style=for-the-badge&logo=githubpages&logoColor=white)](https://iamsid44.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddarth-gottumukkula/)
-[![Email](https://img.shields.io/badge/Email-say_hi-555555?style=for-the-badge)](mailto:siddarth.g@students.iiit.ac.in)
+[![Website](https://img.shields.io/badge/Website-0F766E?style=for-the-badge)](https://iamsid44.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/siddarth-gottumukkula/)
+[![Email](https://img.shields.io/badge/Email-C0392B?style=for-the-badge)](mailto:siddarth.g@students.iiit.ac.in)
